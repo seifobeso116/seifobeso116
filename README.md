@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bassel Yasser and I'm a Data Analyst</p>
+<p align="left">My and I'm </p>
 
 ###
 
