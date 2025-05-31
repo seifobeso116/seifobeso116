@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.d0eb8d5bac813ab8a9b6c5254718ede4?rik=%2fANFsVTt%2fYdI%2fA&pid=ImgRaw&r=0" height="40" alt="appium logo"  />
+  <img width="12"/>
+  <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" height= "40" alt="test ng logo"/>
 </div>
 
 ###
