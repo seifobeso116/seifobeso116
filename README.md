@@ -24,9 +24,9 @@
   <img width="12" />
   <img src="https://assets-global.website-files.com/5ecbeb8d7557e7f636691721/65837a5b8d4c796dcf51d5d4_Azure-SQL-database_logo.png" height="40" alt="sql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="html logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="40" alt="microosoft office packages logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="css logo"  />
+  <img src="https://handsontek.net/images/M365Admin/logo.png" height="40" alt="microsoft office 365 admin center logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
