@@ -47,15 +47,14 @@
 
 ###
 
-###
-
 <div align="left">
-  <a href="https://www.w3schools.com/">  <img src="https://vectorseek.com/wp-content/uploads/2023/09/LinkedIn-in-Logo-Vector.svg-.png" height="30" alt="linkedin logo" /></a>
+  <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" height="40" alt="linkedin logo"  />
   <img width="12" />
-  <a href="https://www.w3schools.com/"> <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" height="30" alt="gmail logo"/></a>
+  <img src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-28.jpg" height="40" alt="gmail logo"  />
   <img width="12" />
-  <a href="https://www.w3schools.com/"> <img src="https://fluxkeyboard.com/wp-content/uploads/2023/06/Microsoft_Office_Outlook_2018%E2%80%93present.svg-300x279.png" height="30" alt="ruby logo"/></a>
-  <img width="12" />
+  <img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/outlook.png" height="40" alt="outlook logo"  />
+    <img width="12" />
+  <img src="https://static.vecteezy.com/system/resources/previews/023/986/631/non_2x/whatsapp-logo-whatsapp-logo-transparent-whatsapp-icon-transparent-free-free-png.png" height="40" alt="whatsapp logo"  />
 </div>
 
 ###
