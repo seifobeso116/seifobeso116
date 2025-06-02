@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">🛠 Technical Skills and Tools</h2>
+<h2 align="left">🖥️ Technical Skills </h2>
 
 ###
 
@@ -23,22 +23,29 @@
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/python-icon.png" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://assets-global.website-files.com/5ecbeb8d7557e7f636691721/65837a5b8d4c796dcf51d5d4_Azure-SQL-database_logo.png" height="40" alt="sql logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://th.bing.com/th/id/R.9c5dc187003386ca0d6d0841858b32ba?rik=5XK7dBYz518Ehg&riu=http%3a%2f%2fwww.seleniumhq.org%2fimages%2fselenium-logo.png&ehk=Lpj11ZnD0MH5aVg36rAt8dkpC5xgkABJdbyxYU4tlpU%3d&risl=&pid=ImgRaw&r=0" height="40" alt="selenium logo"  />
    <img width="12" />
   <img src="https://th.bing.com/th/id/R.5b8483b66d7931f0a03d50b51a4e920d?rik=%2bE29URy6WxR20w&riu=http%3a%2f%2fdefinitiontech.co%2fwp-content%2fuploads%2f2018%2f05%2fappium-logo.png&ehk=1ot5yuhGfqeR0kbkt9U278HTWJeiU2c5rR4mBycv26k%3d&risl=&pid=ImgRaw&r=0" height="35" alt="appium logo"  />
    <img width="12" />
   <img src="https://rest-assured.io/img/logo-transparent.png" height="35" alt="rest assured logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://howtodoinjava.com/wp-content/uploads/2014/12/TestNG.png" height="40" alt="testng logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png" height="35" alt="cucumber logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools</h2>
+
+###
+<div align="left">
+  <img src="https://www.vhv.rs/dpng/f/545-5452076_jira-logo-png.png" height="35" alt="jira logo"  />
   <img width="12" />
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="35" alt="microosoft office packages logo"  />
   <img width="12" />
   <img src="https://handsontek.net/images/M365Admin/logo.png" height="35" alt="microsoft office 365 admin center logo"  />
-  <img width="12" />
-  <img src="https://www.vhv.rs/dpng/f/545-5452076_jira-logo-png.png" height="35" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png" height="35" alt="postman logo"  />
   <img width="12" />
