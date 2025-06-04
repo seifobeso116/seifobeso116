@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">Tools</h2>
+<h2 align="left">⚙️ Tools</h2>
 
 ###
 <div align="left">
