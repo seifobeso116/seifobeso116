@@ -41,31 +41,31 @@
 
 ###
 <div align="left">
-  <a href=" "><img src="https://www.vhv.rs/dpng/f/545-5452076_jira-logo-png.png" height="35" alt="jira logo"  /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://www.vhv.rs/dpng/f/545-5452076_jira-logo-png.png" height="35" alt="jira logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="35" alt="microosoft office packages logo"  /></a>
+  <a href="https://www.office.com/"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="35" alt="microosoft office packages logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://handsontek.net/images/M365Admin/logo.png" height="35" alt="microsoft office 365 admin center logo"  /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-administration?msockid=1de1cf97d03f613f341ada7fd143608d"><img src="https://handsontek.net/images/M365Admin/logo.png" height="35" alt="microsoft office 365 admin center logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png" height="35" alt="postman logo"  /></a>
+  <a href="https://www.postman.com/"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png" height="35" alt="postman logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://th.bing.com/th/id/R.bab2c760c60f17191cb3a002e08a3dbf?rik=X5IeaawJvNTZDg&pid=ImgRaw&r=0" height="35" alt="mysql logo"  /></a>
+  <a href="https://www.mysql.com/"><img src="https://th.bing.com/th/id/R.bab2c760c60f17191cb3a002e08a3dbf?rik=X5IeaawJvNTZDg&pid=ImgRaw&r=0" height="35" alt="mysql logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" height="35" alt="microsoft sql server logo"  /></a>
+  <a href="https://www.microsoft.com/en/sql-server/?msockid=1de1cf97d03f613f341ada7fd143608d"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" height="35" alt="microsoft sql server logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://logodix.com/logo/1588313.png" height="40" alt="jmeter logo"  /></a>
+  <a href="https://jmeter.apache.org/"><img src="https://logodix.com/logo/1588313.png" height="40" alt="jmeter logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://cdn.freebiesupply.com/logos/large/2x/browserling-logo-png-transparent.png" height="35" alt="browserling logo"  /></a>
+  <a href="https://www.browserling.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/browserling-logo-png-transparent.png" height="35" alt="browserling logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" height="35" alt="intellij idea logo"  /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" height="35" alt="intellij idea logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://code.visualstudio.com/assets/images/code-stable.png" height="35" alt="visual studio code logo"  /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" height="35" alt="visual studio code logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://pnghq.com/wp-content/uploads/2023/02/android-studio-icon-png-8279.png" height="35" alt="android studio code logo"  /></a> 
+  <a href="https://developer.android.com/studio"><img src="https://pnghq.com/wp-content/uploads/2023/02/android-studio-icon-png-8279.png" height="35" alt="android studio code logo"/></a> 
   <img width="12" />
-  <a href=" "><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" height="35" alt="git logo"  /></a>
+  <a href="https://git-scm.com/"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" height="35" alt="git logo"  /></a>
   <img width="12" />
-  <a href=" "><img src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" height="35" alt="figma logo"  /></a>
+  <a href="https://www.figma.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" height="35" alt="figma logo"  /></a>
 </div>
 
 ###
