@@ -66,7 +66,7 @@
 <div align="left">
   <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" height="35" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-28.jpg" height="40" alt="gmail logo"  />
+  <img src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-28.jpg" height="45" alt="gmail logo"  />
 </div>
 
 ###
