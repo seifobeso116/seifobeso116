@@ -67,8 +67,6 @@
   <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" height="35" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-28.jpg" height="40" alt="gmail logo"  />
-  <img width="12" />
-  <img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/outlook.png" height="38" alt="outlook logo"  />
 </div>
 
 ###
