@@ -20,6 +20,10 @@
   <img width="12" />
   <a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/python-icon.png" height="40" alt="python logo"/></a>
   <img width="12" />
+    <a href="https://www.figma.com/"><img src="https://ocs-consulting.nl/wp-content/uploads/2018/05/sas-icon-162x162.png" height="35" alt="sas logo"  /></a>
+  <img width="12" />
+    <a href="https://www.figma.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/r-lang-logo-png-transparent.png" height="35" alt="r logo"  /></a>
+  <img width="12" />
   <a href="https://www.w3schools.com/sql/"><img src="https://assets-global.website-files.com/5ecbeb8d7557e7f636691721/65837a5b8d4c796dcf51d5d4_Azure-SQL-database_logo.png" height="40" alt="sql logo"  /></a> 
 </div>
 
@@ -42,8 +46,6 @@
   <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" height="35" alt="visual studio code logo"  /></a>
   <img width="12" />
    <a href="https://git-scm.com/"><img src="https://vinciai.academy/wp-content/uploads/2022/08/jupyter.png" height="35" alt="jupityer logo"  /></a>
-  <img width="12" />
-  <a href="https://www.figma.com/"><img src="https://ocs-consulting.nl/wp-content/uploads/2018/05/sas-icon-162x162.png" height="35" alt="sas logo"  /></a>
   <img width="12" />
    <a href="https://www.figma.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/spss-logo.png" height="35" alt="spss logo"  /></a>
     <img width="12" />
