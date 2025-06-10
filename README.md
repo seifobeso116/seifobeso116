@@ -79,7 +79,7 @@
 <h2 align="left">💻 Projects </h2>
 
 ###
-<h3 align="left"> 👉 Click Here to View My Projects</h3>.
+<h3 align="left"> 👉 Click Here to View My Projects.</h3>
 
 ###
 
