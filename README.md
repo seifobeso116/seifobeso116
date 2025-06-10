@@ -76,10 +76,10 @@
 
 ###
 
-<h2 align="left">💡 Projects </h2>
+<h2 align="left">💻 Projects </h2>
 
 ###
-<h4 align="left"> 👉 Click Here to View My Projects 👈 </h4>
+<h4 align="left"> 👉 Click Here to View My Projects</h4>
 
 ###
 
