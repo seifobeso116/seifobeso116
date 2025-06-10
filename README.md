@@ -6,8 +6,8 @@
 
 ###
 
-- 🧑‍💼 I’m working as a teaching assistant in computer science department at thebes academy.
-- 📚 I'm currently learning software testing.</p>
+- 🧑‍💼 I’m Working as a Teaching Assistant in Computer Science Department at Thebes Academy.
+- 📚 I Have An Bachelor's Degree in Computer Science Since 2021.</p>
 
 ###
 
