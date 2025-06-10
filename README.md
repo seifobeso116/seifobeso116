@@ -7,7 +7,7 @@
 ###
 
 - 🧑‍💼 I’m Working as a Teaching Assistant in Computer Science Department at Thebes Academy.
-- 📚 I Have An Bachelor's Degree in Computer Science Since 2021.</p>
+- 🎓 I Have An Bachelor's Degree in Computer Science from Thebes Academy for Computer and Managment Sciences since 2021.</p>
 
 ###
 
