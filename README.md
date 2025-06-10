@@ -81,7 +81,7 @@
 ###
 
 <div align="left">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" height="40" alt="linkedin logo"/>
+  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" height="40" alt="linkedin logo"/>
   <img width="12" />
   <img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Images.png" height="40" alt="gmail logo"/>
 </div>
