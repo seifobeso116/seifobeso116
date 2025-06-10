@@ -6,8 +6,8 @@
 
 ###
 
-- 🧑‍💼 I’m Currently Working as a Quality Assuracnce Specialist at Thebes Academy.
-- 📚 Former Sales Associate at Delta RS Radio Shack.
+- 🧑‍💼 I’m Currently Working as........
+- 📚 .............................
 
 ###
 
